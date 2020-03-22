@@ -1,0 +1,1 @@
+<HTML><HEAD><TITLE PHP info</TITLE></HEAD><BODY><?php phpinfo() ?></BODY></HTML>
